@@ -1,10 +1,10 @@
 {
-  "name": "myapp",
+  "name": "index",
   "version": "1.0.0",
   "description": "a test",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo successful"
   },
   "author": "Peifen",
   "license": "ISC"
